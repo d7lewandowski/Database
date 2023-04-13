@@ -1,3 +1,6 @@
+Create the 'Staff' table in Mangata and Gallo database.
+Make the necessary changes to the table structure.
+
 Task 1
 
 Write a SQL statement that creates the Staff table with the following columns.

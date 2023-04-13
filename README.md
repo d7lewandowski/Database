@@ -1,6 +1,7 @@
 # Database
 
-Changing table stracture 
-- ALTER MODIFY 
-- ALTER DROP 
-- ALTER ADD
+## Changing table stracture 
+
+## Subqueries
+
+## Virtual Tables
